@@ -1,0 +1,11 @@
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\RestaurantManager2021.Data.dll.config
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\RestaurantManager2021.Data.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\RestaurantManager2021.Data.pdb
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\EntityFramework.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\EntityFramework.xml
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\obj\Release\RestaurantManager2021.Data.csproj.CoreCompileInputs.cache
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\obj\Release\RestaurantManager2021.Data.csproj.CopyComplete
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\obj\Release\RestaurantManager2021.Data.dll
+C:\Users\kristijan.prematarov\source\repos KrisLearning\RestaurantManager2021\RestaurantManager2021.Data\obj\Release\RestaurantManager2021.Data.pdb

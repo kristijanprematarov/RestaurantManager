@@ -1,0 +1,17 @@
+﻿@model IEnumerable<RestaurantManager2021.Data.Models.Restaurant>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@foreach (var restaurant in Model)
+{
+    @Html.Partial("_RestaurantSummary", restaurant)
+}
+
